@@ -1,0 +1,8 @@
+hg38.fa
+hg38.chrom.sizes
+human_gene_annotation.tsv
+promoter_sequences.fa
+tss.bed
+tss_filtered.bed
+promoters.bed
+*.fai
